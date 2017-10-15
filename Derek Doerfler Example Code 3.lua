@@ -1,6 +1,6 @@
 --[[	
 	This file contains a few of the more interesting functions written for the Dota 2 custom game mode
-	"Dota Detuned" (https://steamcommunity.com/sharedfiles/filedetails/?id=433203584), which consists of over 
+	"Dota Detuned" (https://steamcommunity.com/sharedfiles/filedetails/?id=433203584),	which consists of over 
 	10,000 lines of Lua code in total.
 	
 	The code selected is intended to demonstrate the kind of programming required for such an 
